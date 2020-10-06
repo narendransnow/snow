@@ -4,5 +4,6 @@
         <element attributes="edge_encryption_enabled=true" label="Test" max_length="40" name="test" type="string"/>
         <element label="Test1" max_length="40" name="test1" read_only="true" type="string"/>
         <element label="Test2" max_length="40" name="test2" type="string"/>
+        <element label="test3" max_length="40" name="test3" type="string"/>
     </element>
 </database>
